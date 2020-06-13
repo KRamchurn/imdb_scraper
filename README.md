@@ -15,3 +15,5 @@ Ensure that these are downloaded to either the computer or the notebook in which
 To execute, run: 
 
 `python3 imdb_scraper.py`
+
+in the command line.
